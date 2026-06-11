@@ -1,4 +1,5 @@
-## Languages and Tools
+**Languages and Tools**
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=go" alt="Skills" />
   <img src="./assets/odin.svg" alt="Odin" width="48" height="48" />
