@@ -6,4 +6,6 @@
   <img src="https://skillicons.dev/icons?i=swift,kotlin,js" alt="Skills" />
   <br><br>
   <img src="https://skillicons.dev/icons?i=linux,git,lua,html,css" alt="Skills" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=postgres,docker,apple,gcp" alt="Skills" />
 </p>
